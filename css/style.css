@@ -1,0 +1,163 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #fff;
+	background-color: #8594EF;
+
+	margin: 0;
+}
+header{
+	background-color: #3752AE;
+	padding: 15px 20px;
+
+}
+
+
+
+#hero {
+  background-color: #300569;
+padding-top: 50px;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+#hero .titulo h1{
+	color:  #fff;
+	text-align: center;
+	font-weight: 700; 
+	font-size: 40px;
+	text-decoration-line: underline;
+	
+}
+
+
+
+
+#hero .titulo p{
+	text-align: center;
+	font-weight: 500;
+	font-size: 25px;
+	padding: 30px 90px;
+    border-radius: 40px;
+	
+
+}
+
+#boton .btn {
+	border-radius: 50px;
+	color: #300569;
+	font-weight: 700;
+	padding: 20px 25px;
+	background-color: #fff;
+	font-size: 20px;
+ 
+}
+
+#boton .btn:hover {
+	color: #fff;
+	background-color: #000;
+}
+
+
+
+#trending h1{
+	font-size: 50px;
+	text-align: center;
+}
+#trending .trendsmascotas {
+  text-align: center;
+	margin-right: 200px;
+}
+
+#trending .trendsf h1{
+	margin-left: -300px;
+}
+#trending .trendsf p{
+	text-align: center;
+	font-weight: 500;
+	margin-left: -300px;
+	font-size: 30px;
+
+}
+
+#trending .faceimg{
+	margin-left: -200px;
+	
+}
+
+
+#trending .trends1{
+	margin-top: -325px;
+	text-align: center;
+	margin-right: 200px;
+}
+
+#trending .trends2{
+	margin-top: -150px;
+	text-align: center;
+	margin-right: 200px;
+}
+
+
+#populares .popular{
+	background-color: #6D7CD6;
+	padding: 60px 30px;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+
+
+
+#papulares .popular h1{
+	font-weight: 700;
+	margin-bottom: 30px;
+	
+
+}
+
+#populares .popular p{
+	font-size: 16px;
+	font-weight: 600;
+}
+footer {
+	background-color: #B1B0CB;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	font-size: 10px;
+	color: #3752AE;
+	
+}
+
+#footer p{
+	margin-top: 30px;
+}
+
+.section{
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+
+.back-blue{
+	background-color: #293AA6;
+	border-radius: 50px;
+	padding: 20px;
+}
+
+.mrg-none{
+	margin: 0;
+}
+
+.alg-center{
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+
+
+
